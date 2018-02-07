@@ -1,2 +1,2 @@
 # cal
-Educational Git project. Creates a simple calculator in HTML and JavaScript in short steps. 
+`proyecto de prueba para la utilizacion de una calculadora elevado a x2
